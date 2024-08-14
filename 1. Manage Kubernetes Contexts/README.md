@@ -2,7 +2,7 @@
 1. **List All Kubernetes Contexts**  
    Write all Kubernetes context names into the file `/opt/course/1/contexts`.
    ```
-   k config get-contexts
+   kubectl config get-contexts
    ```
 
 2. **Display Current Kubernetes Context with kubectl**  
