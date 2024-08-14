@@ -25,7 +25,9 @@ kubectl apply -f mypod1.yaml
 ```
 kubectl get pod
 ```
+```
 kubectl describe pod pod1
+```
 ```
 kubectl get pod -o wide
 ```
